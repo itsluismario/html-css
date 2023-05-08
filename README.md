@@ -32,3 +32,27 @@ selector ::pseudo-elemento {
     propiedad: valor;
 }
 ```
+
+[========]
+
+## Tipos de displays
+
+### Visualización en bloque (block)
+El display block **establece que un elemento ocupará todo el espacio disponible por defecto y el siguiente elemento a este se situará por debajo.
+
+Es posible añadir medidas de anchura width y altura height a estos a elementos.
+
+También es posible agregar todas las propiedades del modelo de caja (no te preocupes de este concepto, ya lo abordaremos).
+
+### Visualización en línea (inline)
+El display inline establece que un elemento ocupará el espacio del contenido del mismo y el siguiente elemento se situará a la derecha.
+
+No es posible añadir medidas de anchura width y altura height a estos a elementos.
+
+También, no es posible agregar todas las propiedades del modelo de caja, únicamente funcionará la propiedad margin en el eje horizontal (no te preocupes de este concepto, ya lo abordaremos).
+
+### Visualización de bloque y línea (inline-block)
+El display inline-block combina las ventajas de bloque de colocar medidas al elemento y propiedades del modelo de caja correctamente; con las ventajas de inline de color un elemento seguido de otro en el mismo espacio.
+
+Si elemento excede el contenido total, se coloca en la siguiente línea por debajo.
+
