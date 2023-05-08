@@ -1,7 +1,5 @@
 # HTML and CSS Summary
 
-This is a summary of all the properties and features that HTML and CSS can provide us.
-
 ## Tipos de selectores
 
 ### Combinador de hijo directo
@@ -15,3 +13,22 @@ Selecciona todos los elementos del selector de la derecha que están **adyacent
 ### Combinador general de hermanos
 
 Selecciona todos los elementos del selector de la derecha que son **hermanos** del selector de la izquierda. Estos selectores están separados por `~`.
+
+[========]
+
+## Pseudoclases y pseudoelementos
+Una pseudoclase define el estilo de un estado especial de un elemento.
+
+````html
+selector :pseudoclase {
+    propiedad: valor;
+}
+````
+
+Un pseudoelemento define el estilo de una parte específica de un elemento. 
+
+```html
+selector ::pseudo-elemento {
+    propiedad: valor;
+}
+```
