@@ -56,3 +56,11 @@ El display inline-block combina las ventajas de bloque de colocar medidas al ele
 
 Si elemento excede el contenido total, se coloca en la siguiente línea por debajo.
 
+
+### Qué es flexbox
+
+*Flexbox* consiste en el **ordenamiento de elementos hijos en un solo eje**, por defecto horizontalmente. El elemento padre o contenedor deberá contener la propiedad `display` con el valor `flex`. A partir de aquí, ya puedes ordenar los hijos según sea necesario.
+
+### Qué es grid
+
+*Grid* consiste en el **ordenamiento de elementos hijos en dos ejes**, como si fuera una cuadrícula o tabla. El elemento padre o contenedor deberá contener la propiedad `display` con el valor `grid` y debes definir las medidas de las columnas y de las filas. A partir de aquí, ya puedes ordenar los hijos según sea necesario.
