@@ -1,0 +1,14 @@
+/* Hijo directo */
+div > div > div{
+    background: pink;
+}
+
+/* Elemento adyacente */
+div + section {
+    background: blue;
+}
+
+/* General de hermanos */
+div ~ p {
+    background: brown;
+}
