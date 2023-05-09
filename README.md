@@ -71,4 +71,10 @@ Si elemento excede el contenido total, se coloca en la siguiente línea por deba
 
 El modelo de caja se compone de cuatro elementos: margin, border, padding y contenido.
 
+[========]
 
+## Colapso de márgenes
+
+Esto sucede cuando dos elementos de bloque tiene un determinado valor de marigin, y estos márgenes se solpana en un solo valor, el mayor de ambos. 
+
+El colapso de márgenes se puede corregir aplicando nu `flebox` o un `grid`. 
