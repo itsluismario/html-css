@@ -64,3 +64,11 @@ Si elemento excede el contenido total, se coloca en la siguiente línea por deba
 ### Qué es grid
 
 *Grid* consiste en el **ordenamiento de elementos hijos en dos ejes**, como si fuera una cuadrícula o tabla. El elemento padre o contenedor deberá contener la propiedad `display` con el valor `grid` y debes definir las medidas de las columnas y de las filas. A partir de aquí, ya puedes ordenar los hijos según sea necesario.
+
+[========]
+
+## Modelo de caja
+
+El modelo de caja se compone de cuatro elementos: margin, border, padding y contenido.
+
+
