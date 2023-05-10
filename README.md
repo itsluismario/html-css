@@ -92,3 +92,7 @@ La propiedad es position, y hay lo siguientes valores:
 - `absolute`
 - `sticky`
 - `inherit`
+
+## Z-index y el contexto de apilamiento
+
+El contexto de apilamiento consiste en la superposición de capas o elementos a lo largo del eje Z del navegador. Esto es importante para evitar que un elemento esté ocultando a otro.
