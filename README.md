@@ -78,3 +78,17 @@ El modelo de caja se compone de cuatro elementos: margin, border, padding y cont
 Esto sucede cuando dos elementos de bloque tiene un determinado valor de marigin, y estos márgenes se solpana en un solo valor, el mayor de ambos. 
 
 El colapso de márgenes se puede corregir aplicando nu `flebox` o un `grid`. 
+
+[========]
+
+## Posicionamiento en CSS
+
+Consiste en cómo un elemento se situará, con respecto a su elemento padre y de flujo normal del documento.
+
+La propiedad es position, y hay lo siguientes valores: 
+
+- `static`
+- `relative`
+- `absolute`
+- `sticky`
+- `inherit`
