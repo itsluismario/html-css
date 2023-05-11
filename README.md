@@ -96,3 +96,18 @@ La propiedad es position, y hay lo siguientes valores:
 ## Z-index y el contexto de apilamiento
 
 El contexto de apilamiento consiste en la superposición de capas o elementos a lo largo del eje Z del navegador. Esto es importante para evitar que un elemento esté ocultando a otro.
+
+[========]
+
+## Propiedades y valores de CSS más usados
+
+Las propiedades CSS más usadas son las siguientes, separadas en secciones comunes, algunas ya las conocemos:
+
+Display
+Margin
+Padding
+Border
+Width
+Height
+Color
+Background
